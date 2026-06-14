@@ -63,10 +63,11 @@ Built for learning, hackathons, and professional portfolio demos.
 
 2. Backend Setup
 
-bash
-  cd backend
-  npm install
-  Create .env file:
+   ```bash
+     cd backend
+     npm install
+   
+3.  Create .env file:
 
   env
   MONGO_URI=mongodb://127.0.0.1:27017/saas-billing
@@ -74,14 +75,14 @@ bash
   PORT=5000
   Start backend:
 
-bash
-  npx nodemon server.js
-  Frontend Setup
+   ```bash
+     npx nodemon server.js
+     Frontend Setup
 
-bash
-  cd ../frontend
-  npm install
-  npm start
+    ```bash
+     cd ../frontend
+     npm install
+     npm start
 ---
 
 ## 📂 Project Structure
