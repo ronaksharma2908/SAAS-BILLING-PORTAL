@@ -75,7 +75,7 @@ Built for learning, hackathons, and professional portfolio demos.
   PORT=5000
   Start backend:
 
-   ```bash
+   `bash
      npx nodemon server.js
      Frontend Setup
 
@@ -109,15 +109,13 @@ saas-billing-portal/
 │── README.md
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Ronak Sharma
 
 GitHub: ronaksharma2908 (github.com in Bing)
 
 LinkedIn: https://linkedin.com/in/ronak29sharma
 
-📜 License
-This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
 
 ---
 
